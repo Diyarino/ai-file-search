@@ -1,0 +1,7 @@
+customtkinter
+ollama
+numpy
+pypdf
+python-docx
+packaging
+pillow
