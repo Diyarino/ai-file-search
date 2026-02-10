@@ -1,6 +1,6 @@
 # 🚀 AI File Search
 
-**AI File Search** ist eine moderne, lokale Desktop-Suchmaschine für deine Dokumente. Sie nutzt künstliche Intelligenz, um Inhalte nicht nur nach Stichworten, sondern nach **Bedeutung** (semantische Suche) zu finden.
+**AI File Search** ist eine lokale Desktop-Suchmaschine für deine Dokumente. Sie nutzt LLMs, um Inhalte nicht nur nach Stichworten, sondern nach **Bedeutung** (semantische Suche) zu finden.
 
 Die Anwendung läuft **zu 100% lokal** auf deinem PC. Deine Daten verlassen niemals deinen Computer.
 
